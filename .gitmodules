@@ -1,0 +1,6 @@
+[submodule "docker-gerrit"]
+	path = docker-gerrit
+	url = https://github.com/larrycai/docker-gerrit.git
+[submodule "docker-docker"]
+	path = docker-docker
+	url = https://github.com/larrycai/docker-docker.git
